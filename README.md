@@ -1,3 +1,3 @@
 # repozitorijisavailable
-Ovo je moj novi repozitorij
-Novi novi
+# Ovo je moj novi repozitorij
+# Novi novi
