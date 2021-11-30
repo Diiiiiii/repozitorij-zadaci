@@ -1,3 +1,3 @@
-# Sadrži rješavanje zadatke 
+# Rješavanje zadataka i zadaća
 # HTML
 # CSS
